@@ -15,7 +15,7 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 ## Achievements
 
-| <B>Title</B> | Badge | Earnable? | Earned by |
+| Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
@@ -61,7 +61,7 @@ There is still a section which includes specifics on how badges were/are awarded
 
 ### Specifics on how to achieve
 
-For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
+> For now, please refer to the [discussions](https://github.com/Schweinepriester/github-profile-achievements/discussions).  
 To the best of our knowledge:
 
 - [Galaxy Brain](https://github.com/Schweinepriester/github-profile-achievements/discussions/9#discussioncomment-2927413)
@@ -69,7 +69,7 @@ To the best of our knowledge:
 
 ### Tier labels
 
-Each tier has a label associated which includes a color.
+##### Each tier has a label associated which includes a color.
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
