@@ -15,7 +15,7 @@ Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/
 
 ## Achievements
 
-| Title | Badge | Earnable? | Earned by |
+| <B>Title</B> | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
 Pair Extraordinaire | ![Pair Extraordinaire Badge](/images/pair-extraordinaire-default.png) | ✔️ | [Coauthored](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) in a merged pull request
 Quickdraw | ![Quickdraw Badge](/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
